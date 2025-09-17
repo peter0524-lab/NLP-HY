@@ -5,6 +5,11 @@
 **Teaching Assistant:** Min Joo Son (minjoo77@hanyang.ac.kr)  
 **Institution:** Hanyang University, Department of Data Science  
 
+## 💻 Programming Materials
+
+Programming exercises are conducted through the following Google Drive link:
+https://drive.google.com/drive/folders/1z5LB6be9_d11asGZLtGaohfKxu1WNGJ2?usp=drive_link
+
 ## 📋 Course Overview
 
 This repository contains programming materials, code examples, and assignments for the Unstructured Data Analysis course. The course focuses on Natural Language Processing (NLP) techniques and provides hands-on practice with various text analysis methods.

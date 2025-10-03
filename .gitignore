@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# GloVe pre-trained vectors (너무 큼!)
+glove.6B.zip
+glove.6B.*.txt
+*.word2vec.txt
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (대용량)
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.pkl
+*.pickle
+*.h5
+
+# Model files (학습된 모델)
+*.model
+*.bin
+*.pt
+*.pth
+*.ckpt
+
